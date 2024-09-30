@@ -1,0 +1,4 @@
+name: lesson 05
+version: '${project.version}'
+main: lesson05.lesson05.Lesson05
+api-version: '1.16'
